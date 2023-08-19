@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repo URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Repo URL](https://github.com/omarmohy98/News-homepage)
+- Live Site URL: [Live site URL](https://news-homepage-cbwx.onrender.com)
 
 ## My process
 
